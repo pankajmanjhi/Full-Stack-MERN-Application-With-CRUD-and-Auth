@@ -1,15 +1,9 @@
-# Memories
+# E-Comm Dashboard
 
-![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
+![Memories](https://ibb.co/NCqyQjF)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
-
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
-
-By the end of this video, you will have a strong understanding of how the MERN Stack works.
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+The React and Node application to learn how to develop a fully functional full-stack MERN application with complete CRUD functionalities, authentication, search and more. By building this basic application, you'll also learn Node.js, Express.js, MongoDB, and React.js together form the powerful MERN stack project
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
