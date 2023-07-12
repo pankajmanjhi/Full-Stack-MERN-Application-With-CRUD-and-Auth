@@ -1,4 +1,4 @@
-# E-Comm Dashboard
+# CRUD Dashboard
 
 ![]([url_of_image](https://i.ibb.co/Syg3Wn6/dashbord.png))
 
